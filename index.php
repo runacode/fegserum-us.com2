@@ -55,7 +55,7 @@ include_once(dirname(__FILE__) . '/locale/languages.php');
 
 <header class="container-fluid p-0">
     <div class="blue-line text-center">
-        <?= T('US - 60% OFF ONLY TODAY!'); ?>
+        <?php echo $product->rand_head ?>
     </div>
     <div class="d-flex justify-content-between main-part">
         <div class="logo">
@@ -76,7 +76,7 @@ include_once(dirname(__FILE__) . '/locale/languages.php');
     <div class="row main-product-block">
         <div class='col-lg-7'>
             <div class='ktemplate_userCopy'>
-                <img class="img-fluid" src="<?php echo $product->imgsafe; ?>"/>
+                <img class="img-fluid" src="https://picsum.photos/640/640"/>
             </div>
         </div>
         <div class="col-lg-5 right-product-block">
