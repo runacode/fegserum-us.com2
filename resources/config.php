@@ -255,7 +255,7 @@ KFormConfig::$campaignData = '{
     "webPages": {
         "catalogPage": {
             "disableBack": 0,
-            "url": "https:\/\/fegserum-us.com\/catalog.php"
+            "url": "https:\/\/fegserum-us.com\/"
         },
         "checkoutPage": {
             "disableBack": 0,
