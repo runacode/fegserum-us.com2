@@ -310,7 +310,7 @@ KFormConfig::$campaignData = '{
     "companyName": "optin_solutions_llc",
     "offers": {
         "4": {
-            "productId": 4,
+            "productId": 34,
             "name": "Feg Serum - Eyelash Enhancer",
             "description": "*No description available",
             "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/smain-small.jpg",
@@ -320,7 +320,7 @@ KFormConfig::$campaignData = '{
             "category": "FEG"
         },
         "5": {
-            "productId": 5,
+            "productId": 35,
             "name": "Feg Serum - Eyelash Enhancer - Free",
             "description": "*No description available",
             "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/smain-small.jpg",
@@ -332,7 +332,7 @@ KFormConfig::$campaignData = '{
     },
     "upsells": {
         "6": {
-            "productId": 6,
+            "productId": 36,
             "name": "FEG - EyeBrown (2pcs - 2 months of treatment)",
             "description": "*No description available",
             "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/product3.jpeg",
@@ -342,7 +342,7 @@ KFormConfig::$campaignData = '{
             "category": "FEG"
         },
         "7": {
-            "productId": 7,
+            "productId": 37,
             "name": "Feg Serum - Eyelash Enhancer - Free Gift",
             "description": "*No description available",
             "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/product2.jpeg",
@@ -352,7 +352,7 @@ KFormConfig::$campaignData = '{
             "category": "FEG"
         },
         "8": {
-            "productId": 8,
+            "productId": 38,
             "name": "Silicone Make-Up Sponge",
             "description": "*No description available",
             "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/product4.jpeg",
