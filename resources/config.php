@@ -4,18 +4,20 @@ KformConfig::setConfig(array(
     "isWordpress" => false,
     "apiLoginId" => "os_api",
     "apiPassword" => 'p@$$w0rd123123',
-    "authString" => "39871422501d77894e0069d6646e810f",
-    "autoUpdate_allowedIps" => array("80.248.30.132"),
-    "campaignId" => 4,
-    "resourceDir" => "resources/"));
+    "authString"=>"d91d51871b48dfa2b831f82184c8b583",
+	"autoUpdate_allowedIps"=>array("80.248.30.132"),
+	"campaignId"=>10,
+	"resourceDir"=>"resources/"));
 
 
-/*
+
+
+/* 
 !---------------------------------IMPORTANT-----------------------------------!
 
 Documentation:
-
-	-Full documentation on landing pages can be found at
+	
+	-Full documentation on landing pages can be found at 
 
 Auto-Update Feature:
 
@@ -24,14 +26,15 @@ Auto-Update Feature:
 	to keep your landing page up-to-date concerning new coupons / shipping options
 	and product changes.
 
-	-To use the campaign auto-update feature, the apache or ngix user
+	-To use the campaign auto-update feature, the apache or ngix user 
 	(depending on your httpd software) must have write access to this file
-
-	-If you are not using the auto-update feature, you will need to manually
-	replace this file after making changes to the campaign
-
+	
+	-If you are not using the auto-update feature, you will need to manually 
+	replace this file after making changes to the campaign	
+	
 !---------------------------------IMPORTANT-----------------------------------!
 */
+
 class KFormConfig
 {
 	
@@ -252,11 +255,11 @@ KFormConfig::$campaignData = '{
     "webPages": {
         "catalogPage": {
             "disableBack": 0,
-            "url": "https:\/\/fegserumusa.com\/"
+            "url": "https:\/\/fegserum-us.com\/catalog.php"
         },
         "checkoutPage": {
             "disableBack": 0,
-            "url": "https:\/\/fegserumusa.com\/checkout.php",
+            "url": "https:\/\/fegserum-us.com\/checkout.php",
             "autoImportLead": 1,
             "productId": null,
             "requireSig": 0,
@@ -266,33 +269,33 @@ KFormConfig::$campaignData = '{
         },
         "thankyouPage": {
             "disableBack": 0,
-            "url": "https:\/\/fegserumusa.com\/thankyou.php",
+            "url": "https:\/\/fegserum-us.com\/thankyou.php",
             "createAccountDialog": 0,
             "reorderUrl": null,
             "allowReorder": 0
         },
         "upsellPage1": {
             "disableBack": 1,
-            "url": "https:\/\/fegserumusa.com\/upsell1.php",
+            "url": "https:\/\/fegserum-us.com\/upsell1.php",
             "createAccountDialog": 0,
             "requirePayInfo": 0,
-            "productId": 6,
+            "productId": 37,
             "replaceProductId": null
         },
         "upsellPage2": {
             "disableBack": 1,
-            "url": "https:\/\/fegserumusa.com\/upsell2.php",
+            "url": "https:\/\/fegserum-us.com\/upsell2.php",
             "createAccountDialog": 0,
             "requirePayInfo": 0,
-            "productId": 7,
+            "productId": 36,
             "replaceProductId": null
         },
         "upsellPage3": {
             "disableBack": 1,
-            "url": "https:\/\/fegserumusa.com\/upsell3.php",
+            "url": "https:\/\/fegserum-us.com\/upsell3.php",
             "createAccountDialog": 0,
             "requirePayInfo": 0,
-            "productId": 8,
+            "productId": 38,
             "replaceProductId": null
         },
         "productDetails": {
@@ -300,7 +303,7 @@ KFormConfig::$campaignData = '{
         }
     },
     "landerType": "CART",
-    "googleTrackingId": null,
+    "googleTrackingId": "UA-155623562-9",
     "enableFraudPlugin": 0,
     "autoTax": 0,
     "taxServiceId": null,
@@ -310,7 +313,7 @@ KFormConfig::$campaignData = '{
             "productId": 4,
             "name": "Feg Serum - Eyelash Enhancer",
             "description": "*No description available",
-            "imagePath": "https:\/\/fegserumusa.com\/resources\/images\/smain-small.jpg",
+            "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/smain-small.jpg",
             "imageId": 1,
             "price": "11.97",
             "shipPrice": "0.00",
@@ -320,7 +323,7 @@ KFormConfig::$campaignData = '{
             "productId": 5,
             "name": "Feg Serum - Eyelash Enhancer - Free",
             "description": "*No description available",
-            "imagePath": "https:\/\/fegserumusa.com\/resources\/images\/smain-small.jpg",
+            "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/smain-small.jpg",
             "imageId": 1,
             "price": "0.00",
             "shipPrice": "0.00",
@@ -332,7 +335,7 @@ KFormConfig::$campaignData = '{
             "productId": 6,
             "name": "FEG - EyeBrown (2pcs - 2 months of treatment)",
             "description": "*No description available",
-            "imagePath": "https:\/\/fegserumusa.com\/resources\/images\/product3.jpeg",
+            "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/product3.jpeg",
             "imageId": 2,
             "price": "4.95",
             "shipPrice": "0.00",
@@ -342,7 +345,7 @@ KFormConfig::$campaignData = '{
             "productId": 7,
             "name": "Feg Serum - Eyelash Enhancer - Free Gift",
             "description": "*No description available",
-            "imagePath": "https:\/\/fegserumusa.com\/resources\/images\/product2.jpeg",
+            "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/product2.jpeg",
             "imageId": 1,
             "price": "4.95",
             "shipPrice": "0.00",
@@ -352,7 +355,7 @@ KFormConfig::$campaignData = '{
             "productId": 8,
             "name": "Silicone Make-Up Sponge",
             "description": "*No description available",
-            "imagePath": "https:\/\/fegserumusa.com\/resources\/images\/product4.jpeg",
+            "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/product4.jpeg",
             "imageId": 3,
             "price": "4.95",
             "shipPrice": "0.00",
