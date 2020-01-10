@@ -5,8 +5,8 @@
   "FaceBookCurrency": "USD",
   "products": [
     {
-      "cid": 9,
-      "cid_free": 10,
+      "cid": 34,
+      "cid_free": 35,
       "img": "/resources/images/main-banner.jpg",
       "imgsafe": "/resources/images/smain-big.jpg",
       "img_small": "/resources/images/smain-small.jpg",
