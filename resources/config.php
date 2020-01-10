@@ -333,7 +333,7 @@ KFormConfig::$campaignData = '{
     "upsells": {
         "36": {
             "productId": 36,
-            "name": "FEG - EyeBrown (2pcs - 2 months of treatment)",
+            "name": "FEG - EyeBrow (2pcs - 2 months of treatment)",
             "description": "*No description available",
             "imagePath": "https:\/\/fegserum-us.com\/resources\/images\/product3.jpeg",
             "imageId": 2,
