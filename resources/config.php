@@ -309,7 +309,7 @@ KFormConfig::$campaignData = '{
     "taxServiceId": null,
     "companyName": "optin_solutions_llc",
     "offers": {
-        "4": {
+        "34": {
             "productId": 34,
             "name": "Feg Serum - Eyelash Enhancer",
             "description": "*No description available",
@@ -319,7 +319,7 @@ KFormConfig::$campaignData = '{
             "shipPrice": "0.00",
             "category": "FEG"
         },
-        "5": {
+        "35": {
             "productId": 35,
             "name": "Feg Serum - Eyelash Enhancer - Free",
             "description": "*No description available",
@@ -331,7 +331,7 @@ KFormConfig::$campaignData = '{
         }
     },
     "upsells": {
-        "6": {
+        "36": {
             "productId": 36,
             "name": "FEG - EyeBrown (2pcs - 2 months of treatment)",
             "description": "*No description available",
@@ -341,7 +341,7 @@ KFormConfig::$campaignData = '{
             "shipPrice": "0.00",
             "category": "FEG"
         },
-        "7": {
+        "37": {
             "productId": 37,
             "name": "Feg Serum - Eyelash Enhancer - Free Gift",
             "description": "*No description available",
@@ -351,7 +351,7 @@ KFormConfig::$campaignData = '{
             "shipPrice": "0.00",
             "category": "FEG"
         },
-        "8": {
+        "38": {
             "productId": 38,
             "name": "Silicone Make-Up Sponge",
             "description": "*No description available",
