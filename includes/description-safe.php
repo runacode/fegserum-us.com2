@@ -1,6 +1,6 @@
  <h2 class="featured-in text-uppercase text-center mt-3"><span><?= T('Featured In'); ?></span></h2>
 <div class="logos mt-5">
-    <img class="img-fluid" src="../resources/images/logos.jpg">
+    <img class="img-fluid" src="<?php echo $product->logos ?>">
 </div>
 <div class="three-benefites three-benefited__count-four d-flex justify-content-between mt-5">
     <div>

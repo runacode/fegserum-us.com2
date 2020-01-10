@@ -24,7 +24,9 @@
       "satisfaction_guaranteed": "Satisfaction<br>Guaranteed",
       "add_to_cart": "Add to Cart",
       "support_email": "support@fegserum-us.com",
-      "rand_head": "Cool Eyelashes for all"
+      "rand_head": "Cool Eyelashes for all",
+      "logos": "../resources/images/logos.jpg"
+      
     }
   ]
 }
